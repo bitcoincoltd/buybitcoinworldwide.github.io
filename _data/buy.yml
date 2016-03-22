@@ -1453,6 +1453,14 @@
    desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
    po: bt
    
+ - name: bitcoin.co.th
+   desc: Buy bitcoin via cash deposit, bank transfer, or ATM.  Sell bitcoins and receive THB to any Thai bank account.
+   url: https://bitcoin.co.th
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoincoth.png
+   countries: th 
+   desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
+   po:  cash, bt
+   
 ##### South Korea ####################################################   
    
  - name: Korbit
